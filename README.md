@@ -1,7 +1,5 @@
 # Raspberry-Sensor-Fun
 Experimenting with different sensors.
-#####################################
-
     • dht11.py  - using the DHT11 temperature and humidity sensor, outputs date and time(using just the sensor not the module check wiring!)
     • light.py -  photoresistor module 
     • lighttemp.py – combining the DHT11 and the  photoresistor module
